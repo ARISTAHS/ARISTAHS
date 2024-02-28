@@ -34,9 +34,11 @@ TypeScript는 향후 공부 예정입니다.
 
 
  
-### :⚡
+### 📫 How to reach me:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ARISTAHS&theme=radical&locale=ko&hide_longest_streak=true)](https://git.io/streak-stats)
-   
+
+
+
 </div>
 
 
