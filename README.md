@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=ARISTAHS&fontColor=f4fdfa&fontSize=60&animation=fadeIn&height=150&rotate=-10)
+![header](https://capsule-render.vercel.app/api?type=waving&text=정호석&fontColor=f4fdfa&fontSize=60&animation=fadeIn&height=150&rotate=-10)
 
 
 
