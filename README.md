@@ -31,6 +31,12 @@ TypeScript는 향후 공부 예정입니다.
   <img src="https://img.shields.io/badge/createreactapp-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=black">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
+
+
+ 
+### :⚡
+[![GitHub Streak](https://streak-stats.demolab.com?user=ARISTAHS&theme=radical&locale=ko&hide_longest_streak=true)](https://git.io/streak-stats)
+   
 </div>
 
 
