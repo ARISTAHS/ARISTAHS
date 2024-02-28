@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=방문%20감사합니다.&fontColor=f4fdfa&fontSize=60&animation=fadeIn&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&text=방문%20감사합니다.&fontColor=f4fdfa&fontSize=40&animation=fadeIn&height=150)
 
 
 
@@ -34,7 +34,7 @@ TypeScript는 향후 공부 예정입니다.
 
 
  
-### 📫 How to reach me:
+### 📫 Show Sections:
 [![GitHub Streak](https://streak-stats.demolab.com?user=ARISTAHS&theme=radical&locale=ko&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
