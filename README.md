@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&text=방문%20감사합니다.&fontColor=f4fdfa&fontSize=40&animation=fadeIn&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&text=방문%20감사합니다.&fontColor=f4fdfa&fontSize=45&animation=fadeIn&height=150)
 
 
 
